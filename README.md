@@ -1,8 +1,8 @@
-# Claude AI 中文版使用指南
+# Claude 中文版使用指南
 
 > 国内访问 Claude AI 中文版的指南，支持 Claude Sonnet/Opus，无需翻墙
 
-## 国内可用的 Claude AI 中文版镜像站推荐
+## 国内可用的 Claude 中文版镜像站推荐
 
 | 镜像站名称 | 网址 | 支持版本 | 免费额度 | 功能亮点 |
 |------------|------|----------|-----------|-----------|
@@ -12,7 +12,7 @@
 | Claude智能助手 | [claudechat.ai](https://claudechat.ai) | GPT4o/GPT5/o1/o3/Claude 4.5 Sonnet, Claude 2 | 注册后10次 | 支持多模态，文档分析 |
 | AI助理 | [ai-assistant.app](https://ai-assistant.app) | Claude 4.5 Sonnet/Opus | 15次 | 中文界面，无广告 |
 
-## 如何快速开始使用 Claude AI 中文版？
+## 如何快速开始使用 Claude 中文版？
 
 ### 方法一：通过镜像站点快速体验
 
